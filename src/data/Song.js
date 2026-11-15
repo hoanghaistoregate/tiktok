@@ -1,0 +1,48 @@
+// src: file nhạc đặt trong public/music/, ghi dạng "/music/ten-file.mp3"
+export const Song = [
+  {
+    id: 1,
+    title: "Phía Sau Một Cô Gái",
+    artist: "Soobin Hoàng Sơn",
+    duration: "3:38",
+    image: "/images/a3.jpg",
+    color: "#8a6f5a",
+    src: "/music/bai1.mp3",
+  },
+  {
+    id: 2,
+    title: "Đừng Làm Trái Tim Anh Đau",
+    artist: "Sơn Tùng MT-P",
+    duration: "4:05",
+    image: "/images/a2.jpeg",
+    color: "#c9b88a",
+    src: "/music/bai2.mp3",
+  },
+  {
+    id: 3,
+    title: "Trái Tim Băng Bó",
+    artist: "Dangrangto",
+    duration: "3:24",
+    image: "/images/a5.jpg",
+    color: "#3f5a7a",
+    src: "/music/bai3.mp3",
+  },
+  {
+    id: 4,
+    title: "50 Cuộc Gọi Nhỡ",
+    artist: "Quang Hùng MasterD",
+    duration: "3:51",
+    image: "/images/a4.jpeg",
+    color: "#9b8fc2",
+    src: "/music/bai4.mp3",
+  },
+  {
+    id: 5,
+    title: "Đáng Ra Anh Không Nên",
+    artist: "Bray - Đạt G",
+    duration: "4:12",
+    image: "/images/a6.jpeg",
+    color: "#7a8f6a",
+    src: "/music/bai5.mp3",
+  },
+];

@@ -1,0 +1,39 @@
+.playlist-section {
+  margin-top: 32px;
+}
+
+.playlist-section-head {
+  margin-bottom: 16px;
+}
+
+.playlist-section-title {
+  margin: 0 0 2px;
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--luma-text, #1f2a24);
+}
+.playlist-section-sub {
+  margin: 0;
+  font-size: 13px;
+  color: var(--luma-muted, #5f695f);
+}
+
+.playlist-section-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--luma-green, #2d4a3b);
+  text-decoration: none;
+}
+.playlist-section-link:hover {
+  text-decoration: underline;
+}
+
+/* tự chia cột: mỗi thẻ rộng tối thiểu 180px */
+.playlist-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 20px;
+}

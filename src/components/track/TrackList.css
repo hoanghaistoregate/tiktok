@@ -1,0 +1,41 @@
+.track-list {
+  margin-top: 32px;
+}
+
+.track-list-head {
+  margin-bottom: 12px;
+}
+
+.track-list-title {
+  margin: 0 0 2px;
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--luma-text, #1f2a24);
+}
+.track-list-sub {
+  margin: 0;
+  font-size: 13px;
+  color: var(--luma-muted, #5f695f);
+}
+
+.track-list-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--luma-green, #2d4a3b);
+  text-decoration: none;
+}
+.track-list-link:hover {
+  text-decoration: underline;
+}
+
+.track-list-items {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}

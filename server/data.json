@@ -1,0 +1,215 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "title": "Phía Sau Một Cô Gái",
+      "artist": "Soobin Hoàng Sơn",
+      "duration": "3:38",
+      "image": "/images/a3.jpg",
+      "color": "#8a6f5a",
+      "src": "/music/bai1.mp3",
+      "album": "",
+      "plays": 0,
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "title": "Đừng Làm Trái Tim Anh Đau",
+      "artist": "Sơn Tùng MT-P",
+      "duration": "4:05",
+      "image": "/images/a2.jpeg",
+      "color": "#c9b88a",
+      "src": "/music/bai2.mp3",
+      "album": "",
+      "plays": 0,
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "title": "Trái Tim Băng Bó",
+      "artist": "Dangrangto",
+      "duration": "3:24",
+      "image": "/images/a5.jpg",
+      "color": "#3f5a7a",
+      "src": "/music/bai3.mp3",
+      "album": "",
+      "plays": 0,
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "title": "50 Cuộc Gọi Nhỡ",
+      "artist": "Quang Hùng MasterD",
+      "duration": "3:51",
+      "image": "/images/a4.jpeg",
+      "color": "#9b8fc2",
+      "src": "/music/bai4.mp3",
+      "album": "",
+      "plays": 0,
+      "status": "active"
+    },
+    {
+      "id": 5,
+      "title": "Đáng Ra Anh Không Nên",
+      "artist": "Bray - Đạt G",
+      "duration": "4:12",
+      "image": "/images/a6.jpeg",
+      "color": "#7a8f6a",
+      "src": "/music/bai5.mp3",
+      "album": "",
+      "plays": 0,
+      "status": "active"
+    },
+    {
+      "id": 1794752712601,
+      "title": "Hoa Vô Sắc",
+      "artist": "Jack - J97",
+      "album": "Track No.1",
+      "duration": "4:12",
+      "plays": 0,
+      "status": "active",
+      "image": "/images/a7.jpg",
+      "color": "#8a6f5a",
+      "src": "/music/bai5.mp3"
+    },
+    {
+      "id": 1794753862451,
+      "title": "Anh Tự Do Nhưng Cô Đơn",
+      "artist": "Đạt G",
+      "album": "Track No.1",
+      "duration": "4:12",
+      "plays": 10,
+      "status": "active",
+      "image": "/images/a8.webp",
+      "color": "#3aa19a",
+      "src": "/music/bai5.mp3"
+    },
+    {
+      "id": 1794754330367,
+      "title": "BIGCITYBOY",
+      "artist": "Binz",
+      "album": "Track No.1",
+      "duration": "4:12",
+      "plays": 10,
+      "status": "active",
+      "image": "/images/a10.jpg",
+      "color": "#8a6f5a",
+      "src": "/music/bai5.mp3"
+    },
+    {
+      "id": 1794754439552,
+      "title": "LAVIAI",
+      "artist": "WXRDIE - HIEUTHUHAI",
+      "album": "Track No.1",
+      "duration": "4:12",
+      "plays": 20,
+      "status": "active",
+      "image": "/images/a11.jpg",
+      "color": "#8a6f5a",
+      "src": ""
+    },
+    {
+      "id": 1794754539014,
+      "title": "Tại Vì Sao",
+      "artist": "MCK - NGƠ",
+      "album": "Track No.1",
+      "duration": "4:12",
+      "plays": 30,
+      "status": "active",
+      "image": "/images/a12.webp",
+      "color": "#e29b65",
+      "src": ""
+    }
+  ],
+  "users": [
+    {
+      "id": 1794747308742,
+      "name": "Hoàng Hải",
+      "email": "admin7709@gmail.com",
+      "passwordHash": "$2b$10$O3/ArpfeNaAl28hjEK9tGeFOq294iy.mNvTFtPrPm8Km5qRYq3ulm",
+      "role": "admin"
+    }
+  ],
+  "playlists": [
+    {
+      "id": 1,
+      "image": "/images/a3.jpg",
+      "color": "#c9d3c0",
+      "coverTitle": "Soobin Hoàng Sơn",
+      "vol": "Track No.1",
+      "title": "Những bài hát hay nhất"
+    },
+    {
+      "id": 2,
+      "image": "/images/a2.jpeg",
+      "color": "#8a6f5a",
+      "coverTitle": "Sơn Tùng MT-P",
+      "vol": "Vol. 02",
+      "title": "Bản Nhạc Hay Nhất"
+    },
+    {
+      "id": 3,
+      "image": "/images/a4.jpeg",
+      "color": "#9b8fc2",
+      "coverTitle": "Quang Hùng MasterD",
+      "vol": "Track No.2",
+      "title": "Giai Điệu Bắt Tai"
+    },
+    {
+      "id": 4,
+      "image": "/images/a5.jpg",
+      "color": "#3f5a7a",
+      "coverTitle": "Dangrangto",
+      "vol": "Vol. 04",
+      "title": "Nhạc Rap Real Love"
+    },
+    {
+      "id": 5,
+      "image": "/images/a6.jpeg",
+      "color": "#7a8f6a",
+      "coverTitle": "B Ray",
+      "vol": "Track No.4",
+      "title": "Bản Tình Ca Buồn"
+    },
+    {
+      "id": 1794753567276,
+      "title": "Người Dưng",
+      "coverTitle": "Jack - J97",
+      "vol": "Track No.1",
+      "image": "/images/a7.jpg",
+      "color": "#8a6f5a"
+    },
+    {
+      "id": 1794753765481,
+      "title": "Anh Tự Do Nhưng Anh Cô Đơn",
+      "coverTitle": "Đạt G",
+      "vol": "Track No.1",
+      "image": "/images/a8.webp",
+      "color": "#49d078"
+    },
+    {
+      "id": 1794754008070,
+      "title": "100 Con Beat Buồn",
+      "coverTitle": "Masew",
+      "vol": "Track No.1",
+      "image": "/images/a9.jpeg",
+      "color": "#b8723d"
+    },
+    {
+      "id": 1794754106773,
+      "title": "BIGCITYBOY",
+      "coverTitle": "Binz",
+      "vol": "Track No.1",
+      "image": "/images/a10.jpg",
+      "color": "#db7324"
+    },
+    {
+      "id": 1794754198308,
+      "title": "Track Nhạc Rap Căng Nhất",
+      "coverTitle": "Wxrdie",
+      "vol": "Track No.1",
+      "image": "/images/a11.jpg",
+      "color": "#29170a"
+    }
+  ]
+}

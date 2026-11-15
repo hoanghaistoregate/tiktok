@@ -1,0 +1,19 @@
+.chart-title {
+  margin: 0 0 4px;
+  font-size: 32px;
+  font-weight: 700;
+  color: var(--luma-text, #1f2a24);
+}
+.chart-sub {
+  margin: 0 0 20px;
+  font-size: 14px;
+  color: var(--luma-muted, #5f695f);
+}
+.chart-items {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
